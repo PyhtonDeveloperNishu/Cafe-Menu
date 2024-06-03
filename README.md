@@ -1,2 +1,2 @@
 # Cafe-Menu
-menu of a restaurants
+This is a simple Cafe-Menu App project.
